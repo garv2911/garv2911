@@ -39,7 +39,7 @@
 ---
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tulsyanigarv&theme=vision-friendly-dark&hide_border=false)
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=garv2911&theme=vision-friendly-dark&hide_border=false)
 
 ---
 
