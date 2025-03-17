@@ -26,8 +26,12 @@
 #### 🔥 Web & Backend:
 [![Web](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express)](https://skillicons.dev)  
 
-#### 🛠 DevOps & Security:
-[![Security](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github)](https://skillicons.dev)  
+#### 🛡 Cybersecurity & Linux Tools:
+<img src="https://img.shields.io/badge/Nmap-3C3C3C?style=for-the-badge&logo=nmap&logoColor=white">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white">
+<img src="https://img.shields.io/badge/Metasploit-2E2E2E?style=for-the-badge&logo=metasploit&logoColor=white">
+<img src="https://img.shields.io/badge/Linux-0078D4?style=for-the-badge&logo=linux&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white">
 
 #### 🗄 Databases:
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)  
