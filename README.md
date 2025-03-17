@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Backend development, NLP, Deep Learning, LSTM and u get the idea...**
 
-- 📫 How to reach me **tulsyanigarv@gmail.com**
+- 📫 How to reach me **gaurav2301v@gmail.com**
 
 ## ✨ Technical Tools: 
 
