@@ -1,0 +1,51 @@
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF">
+</div>
+
+<h1 align="center">Hey there! 👋</h1>
+<h3 align="center">Passionate about Cybersecurity, AI, and Everything Tech! 🚀</h3>
+
+---
+
+### 👨‍💻 About Me:
+- 🔐 Cybersecurity & AI Enthusiast  
+- 📚 Currently exploring **Machine Learning, Ethical Hacking & DevSecOps**  
+- 🎯 Aiming to **make the digital world more secure & smarter**  
+- 💡 Always learning, experimenting, and building cool stuff  
+
+---
+
+### 🔧 Tech Stack & Tools:
+
+#### 🚀 Programming & Scripting:
+[![Languages](https://skillicons.dev/icons?i=python,java,c,js,go,ts)](https://skillicons.dev)  
+
+#### 🤖 AI & ML:
+[![AI](https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv)](https://skillicons.dev)  
+
+#### 🔥 Web & Backend:
+[![Web](https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express)](https://skillicons.dev)  
+
+#### 🛠 DevOps & Security:
+[![Security](https://skillicons.dev/icons?i=docker,kubernetes,linux,bash,git,github)](https://skillicons.dev)  
+
+#### 🗄 Databases:
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)  
+
+---
+
+### 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=tulsyanigarv&theme=vision-friendly-dark&hide_border=false)
+
+---
+
+### 📬 Let's Connect:
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://twitter.com/your-twitter" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
+<a href="https://instagram.com/your-instagram" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
+</p>
+
+---
+
+### 🚀 "Breaking into cybersecurity, one exploit at a time!" 💻 🔍
