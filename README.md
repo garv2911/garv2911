@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hey there! 👋</h1>
-<h3 align="center">Passionate about Cybersecurity, AI, and Everything Tech! 🚀</h3>
+<h3 align="center">Passionate about Cybersecurity, AI, Product Management, and Everything Tech! 🚀</h3>
 
 ---
 
@@ -12,6 +12,7 @@
 - 📚 Currently exploring **Machine Learning, Ethical Hacking & DevSecOps**  
 - 🎯 Aiming to **make the digital world more secure & smarter**  
 - 💡 Always learning, experimenting, and building cool stuff  
+- 🧠 Interested in **Product Thinking, Agile Development & Tech Strategy**
 
 ---
 
@@ -35,6 +36,14 @@
 
 #### 🗄 Databases:
 [![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres)](https://skillicons.dev)  
+
+#### 🧠 Product Management:
+<img src="https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=scrumalliance&logoColor=white">
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=F9D72A">
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+<img src="https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white">
 
 ---
 
